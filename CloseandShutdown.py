@@ -1,16 +1,16 @@
-#################################################
-#												#
-#	Name: Close and Shutdown 					#
-#	Dates: 04/01		                   	    #
-#   Ver: 1.0.0             						#
-#	- Pulls list of potential opened software 	#
-#	- Uses shutdown function					#
-#                                           	#
-#   Next Edits                              	#
-#   - Pulls all current processes				#
-#	- Add a regsitery for the list				#
-#	        							    	#
-#################################################
+####################################################
+#						   #
+#	Name: Close and Shutdown 		   #
+#	Dates: 04/01		                   #
+#       Ver: 1.0.0             			   #
+#	- Pulls list of potential opened software  #
+#	- Uses shutdown function		   #
+#                                           	   #
+#       Next Edits                                 #
+#       - Pulls all current processes		   #
+#	- Add a regsitery for the list		   #
+#	        				   #
+####################################################
 
 import subprocess
 import os
